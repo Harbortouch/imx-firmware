@@ -1,0 +1,10 @@
+
+# AMPAK GB86302I
+# BCM4330
+
+broadcom/
+├── bcmdhd.GB86302I.BCM4330.cal     nvram configuration file
+├── bcm4330b2.hcd                   bluetooth configuration file
+├── fw_bcm4330b2_ag.bin             Wi-Fi P2P & STA modes firmware
+├── fw_bcm4330b2_ag_apsta.bin       Wi-Fi AP mode firmware
+└── README
